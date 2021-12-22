@@ -1,0 +1,13 @@
+{
+  "name": "undrestanding-ts",
+  "version": "1.0.0",
+  "description": "first project to learn ts",
+  "main": "index.js",
+  "author": "mohammad ahmadi",
+  "license": "MIT",
+
+  "scripts": {
+
+  }
+  
+}
